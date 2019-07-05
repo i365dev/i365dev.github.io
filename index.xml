@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code Crafts</title>
+    <link>/</link>
+    <description>Recent content on Code Crafts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Feb 2019 11:32:00 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hello, my name is Dawei Ma, I am a software developer. This is my resume</description>
+    </item>
+    
+    <item>
+      <title>Coding Anytime Anywhere</title>
+      <link>/post/coding-anytime-anywhere/</link>
+      <pubDate>Fri, 08 Feb 2019 11:32:00 +0800</pubDate>
+      
+      <guid>/post/coding-anytime-anywhere/</guid>
+      <description>&lt;p&gt;Coding Anytime Anywhere&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/resume/en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/en/</guid>
+      <description>Dawei Ma&#39;s Resume      Projects  2018.11 Coupon Web Project Description: A coupon information platform for overseas.
+Technology tags: Content management platform, high concurrent Web site, distributed crawler technology, SEO optimization technology, ELK, NLP, Coupon aff-network data integrated
+Development language: Java &amp; Scala &amp; PlayFramework &amp; SpringBoot &amp; Python &amp; Elixir    2018.4 Digital Intercom App Project Description: The digital walkie-talkie can be connected via Bluetooth and related configuration information can be set, and the IM voice chat function is also available.</description>
+    </item>
+    
+  </channel>
+</rss>

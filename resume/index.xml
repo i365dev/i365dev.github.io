@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumes on Code Crafts</title>
+    <link>/resume/</link>
+    <description>Recent content in Resumes on Code Crafts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/resume/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/resume/en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/en/</guid>
+      <description>Dawei Ma&#39;s Resume      Projects  2018.11 Coupon Web Project Description: A coupon information platform for overseas.
+Technology tags: Content management platform, high concurrent Web site, distributed crawler technology, SEO optimization technology, ELK, NLP, Coupon aff-network data integrated
+Development language: Java &amp; Scala &amp; PlayFramework &amp; SpringBoot &amp; Python &amp; Elixir    2018.4 Digital Intercom App Project Description: The digital walkie-talkie can be connected via Bluetooth and related configuration information can be set, and the IM voice chat function is also available.</description>
+    </item>
+    
+  </channel>
+</rss>
