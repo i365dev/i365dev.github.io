@@ -12,20 +12,20 @@
     
     
     <item>
-      <title>Plans</title>
-      <link>/plans/</link>
+      <title>Plan</title>
+      <link>/plan/</link>
       <pubDate>Fri, 05 Jul 2019 21:41:52 +0800</pubDate>
       
-      <guid>/plans/</guid>
-      <description> Learn English  </description>
+      <guid>/plan/</guid>
+      <description> 2019  Learn English  </description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/projects/</link>
+      <title>Project</title>
+      <link>/project/</link>
       <pubDate>Fri, 05 Jul 2019 21:41:52 +0800</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>/project/</guid>
       <description> Web  https://www.hasoffer.com A coupon website
  https://www.instaghub.com A instagram viewer
   App  http://diary.trade./ Investment aid tool  E-Book </description>
