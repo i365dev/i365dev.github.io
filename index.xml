@@ -6,10 +6,30 @@
     <description>Recent content on Code Crafts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Feb 2019 11:32:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 21:41:52 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Plans</title>
+      <link>/plans/</link>
+      <pubDate>Fri, 05 Jul 2019 21:41:52 +0800</pubDate>
+      
+      <guid>/plans/</guid>
+      <description> Learn English  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Fri, 05 Jul 2019 21:41:52 +0800</pubDate>
+      
+      <guid>/projects/</guid>
+      <description> Web  https://www.hasoffer.com A coupon website
+ https://www.instaghub.com A instagram viewer
+  App  http://diary.trade./ Investment aid tool  E-Book </description>
+    </item>
     
     <item>
       <title>About</title>
